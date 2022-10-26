@@ -1,0 +1,27 @@
+{
+  "name": "fedevchallange",
+  "version": "1.0.0",
+  "description": "fe dev challenge test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mircdj/FEDEVChallange.git"
+  },
+  "keywords": [
+    "fedev",
+    "angular",
+    "javascript"
+  ],
+  "author": "mirco sabatino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mircdj/FEDEVChallange/issues"
+  },
+  "homepage": "https://github.com/mircdj/FEDEVChallange#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
